@@ -1,1 +1,3 @@
 # utilities
+*bullet
+-bullet
