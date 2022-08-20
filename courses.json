@@ -2,13 +2,7 @@
   "_id":"1",
  "name":"Content Creation Pack",
  "price":"150",
- "desc":"Video Editing
-Motion Graphics
-YouTube Content Creator Course
-Radio/TV Presentation
-Basic Cartoon Course
-3D Animation Basic
-Video Editing Fundamentals",
+ "desc":"Video Editing,Motion Graphics,YouTube Content Creator Course,Radio/TV Presentation,Basic Cartoon Course,3D Animation Basic,Video Editing Fundamentals",
  "duration":"6 Months",
  "image":"https://ghoorilearning.com/uploads/images/003a6416c7c15aa3e1000f63934d1d66-medium.jpg"
 },
@@ -16,9 +10,7 @@ Video Editing Fundamentals",
   "_id":"2",
  "name":"Basic Digital Marketing",
  "price":"500",
- "desc":"The course is hugely interactive with projects, checklists & actionable lectures built into every section.
-
-Learn step by step how to market a business online from scratch across all the major marketing channels.",
+ "desc":"The course is hugely interactive with projects, checklists & actionable lectures built into every section.Learn step by step how to market a business online from scratch across all the major marketing channels.",
  "duration":"6 Months",
  "image":"https://ghoorilearning.com/uploads/images/c83325095253cab46fae54315b91498d-medium.jpg"
 },
