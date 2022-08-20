@@ -1,33 +1,41 @@
 [{
   "_id":"1",
- "name":"name",
- "price":"100",
- "desc":"lorem",
- "duration":"5 months",
- "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+ "name":"Content Creation Pack",
+ "price":"150",
+ "desc":"Video Editing
+Motion Graphics
+YouTube Content Creator Course
+Radio/TV Presentation
+Basic Cartoon Course
+3D Animation Basic
+Video Editing Fundamentals",
+ "duration":"6 Months",
+ "image":"https://ghoorilearning.com/uploads/images/003a6416c7c15aa3e1000f63934d1d66-medium.jpg"
 },
 {
   "_id":"2",
- "name":"name",
- "price":"100",
- "desc":"lorem",
- "duration":"5 months",
- "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+ "name":"Basic Digital Marketing",
+ "price":"500",
+ "desc":"The course is hugely interactive with projects, checklists & actionable lectures built into every section.
+
+Learn step by step how to market a business online from scratch across all the major marketing channels.",
+ "duration":"6 Months",
+ "image":"https://ghoorilearning.com/uploads/images/c83325095253cab46fae54315b91498d-medium.jpg"
 },
 {
   "_id":"3",
- "name":"name",
- "price":"100",
- "desc":"lorem",
- "duration":"5 months",
- "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+ "name":"Shopify With Dropshiping",
+ "price":"800",
+ "desc":"In this course, you’ll learn how to find products to sell without ever worrying about inventory or shipping thanks to dropshipping. Dropshipping is a great way to start an ecommerce business because it doesn’t require a lot of money or time to start. All you need is an idea and a little guidance.",
+ "duration":"8 Months",
+ "image":"https://ghoorilearning.com/uploads/images/ffa07a70e85d8f3c8f592a614a80f273-medium.jpg"
 },
 {
   "_id":"4",
- "name":"name",
- "price":"100",
- "desc":"lorem",
- "duration":"5 months",
- "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+ "name":"Sales Traning",
+ "price":"600",
+ "desc":"This course is all about the optimam machanism of sales. Increase your sales in no time",
+ "duration":"6 months",
+ "image":"https://ghoorilearning.com/uploads/images/28ba8a338be2eb0c99571449fd6eed27-medium.jpg"
 }
 ]
