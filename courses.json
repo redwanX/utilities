@@ -1,0 +1,33 @@
+[{
+  "_id":"1",
+ "name":"name",
+ "price":"100",
+ "desc":"lorem",
+ "duration":"5 months",
+ "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+},
+{
+  "_id":"2",
+ "name":"name",
+ "price":"100",
+ "desc":"lorem",
+ "duration":"5 months",
+ "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+},
+{
+  "_id":"3",
+ "name":"name",
+ "price":"100",
+ "desc":"lorem",
+ "duration":"5 months",
+ "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+},
+{
+  "_id":"4",
+ "name":"name",
+ "price":"100",
+ "desc":"lorem",
+ "duration":"5 months",
+ "image":"https://www.programming-hero.com/img/course-thumbnails.png"
+}
+]
